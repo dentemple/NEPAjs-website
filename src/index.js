@@ -1,9 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import React from 'react'
+import { render } from 'react-dom'
 
-ReactDOM.render(
-  <App />,
+import './css/index.css'
+
+import Router from './config/Router'
+
+render(
+  <Router />,
   document.getElementById('root')
-);
+)
