@@ -1,18 +1,20 @@
+*PRs welcome!*
+
 # NEPAjs
 
 > The most supportive community of JavaScript developers from Northeast Pennsylvania
 
 Find us on Twitter! [#nepajs](https://twitter.com/hashtag/NEPAjs?src=hash)
 
-## [Who We Are](#introduction)
+## Who We Are
 
 TBD
 
-## [Code of Conduct](#conduct)
+## Code of Conduct
 
 TBD
 
-## [Run Locally](#run)
+## Run Locally
 
 ### Required
 
@@ -29,7 +31,7 @@ TBD
   - Runs on [http://localhost:3000](http://localhost:3000)
 - Type `yarn test` (`npm test`) to launch the test runner (Jest)
 
-## [Architecture](#architecture)
+## Architecture
 
 ### Technologies
 
@@ -59,10 +61,10 @@ Configuration has been bootstrapped with `create-react-app`.  Additional documen
   - `yarn test` will run the test watcher
   - 'yarn build' will build the app for production
 
-## [Acknowledgements](#acknowledgements)
+## Acknowledgements
 
 TBD
 
-## [License](#license)
+## License
 
 TBD
