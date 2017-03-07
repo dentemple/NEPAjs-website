@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import logo from '../css/img/logo.svg'
 import '../css/SpinningLogo.css'
+import logo from '../css/img/logo.svg'
 
-export default class App extends Component {
+export default class SpinningLogo extends Component {
   render () {
     return (
-      <img src={logo} className='React-logo' alt='logo' />
+      <img src={logo} className='React-logo' alt='React.js Logo' />
     )
   }
 }

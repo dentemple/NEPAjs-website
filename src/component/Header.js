@@ -7,6 +7,7 @@ const HeaderContainer = (props) => {
     backgroundImage: `url(${headerImage})`,
     backgroundSize: 'cover',
     height: 750,
+    flex: 1
   }
   return (
     <div style={ style }>
