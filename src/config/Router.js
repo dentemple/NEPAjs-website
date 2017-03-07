@@ -1,17 +1,15 @@
 import React from 'react'
-import { BrowserRouter, Match, Miss } from 'react-router'
+import { Router, Route, IndexRoute, hashHistory } from 'react-router'
 
 import App from '../component/App'
+import Main from '../component/Main'
 
-const Router = () => {
-  return (
-    <BrowserRouter>
-      <div>
-        <Match exactly pattern='/' component={App} />
-        <Miss component={App} />
-      </div>
-    </BrowserRouter>
-  )
-}
+const router = (
+  <Router history={hashHistory}>
+    <Route path='/' component={App}>
+      <IndexRoute component={Main} />
+    </Route>
+  </Router>
+)
 
-export default Router
+export default router
