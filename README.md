@@ -1,10 +1,10 @@
-*PRs welcome!*
+*PRs welcome!  Feel free to contribute to the community.*
 
 # NEPAjs
 
 > The most supportive community of JavaScript developers from Northeast Pennsylvania
 
-Find us on Twitter! [#nepajs](https://twitter.com/hashtag/NEPAjs?src=hash)
+Find us on Twitter: [#nepajs](https://twitter.com/hashtag/NEPAjs?src=hash)
 
 ## Who We Are
 
