@@ -10,7 +10,7 @@ const HeaderContainer = (props) => {
     marginTop: 50
   }
   return (
-    <div style={ style }>
+    <div style={style}>
       { props.children }
     </div>
   )

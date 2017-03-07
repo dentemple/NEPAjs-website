@@ -5,10 +5,10 @@ import logo from '../css/img/nepajs-small.jpeg'
 export default class NepaLogo extends Component {
   render () {
     const style = {
-      maxHeight: '150%',
+      maxHeight: '150%'
     }
     return (
-      <img src={logo} style={ style } alt='NEPA.js logo' />
+      <img src={logo} style={style} alt='NEPA.js logo' />
     )
   }
 }
