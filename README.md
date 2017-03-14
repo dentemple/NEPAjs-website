@@ -1,14 +1,10 @@
-*PRs welcome!  Feel free to contribute to the community.*
+*PRs welcome.  Feel free to contribute!*
 
 # NEPAjs
 
-> The most supportive community of JavaScript developers from Northeast Pennsylvania
+(about us)
 
 Find us on Twitter: [#nepajs](https://twitter.com/hashtag/NEPAjs?src=hash)
-
-## Who We Are
-
-TBD
 
 ## Code of Conduct
 
@@ -27,9 +23,9 @@ TBD
 - Clone the repository
 - `cd` into the project using the terminal
 - Type `yarn install` or `npm install` to install the project dependencies
-- Type `yarn start` (`npm start`) to run the client in development mode
+- Type `yarn start` or `npm start` to run the client in development mode
   - Runs on [http://localhost:3000](http://localhost:3000)
-- Type `yarn test` (`npm test`) to launch the test runner (Jest)
+- Type `yarn test` or `npm test` to launch the test runner (Jest)
 
 ## Architecture
 
@@ -39,7 +35,7 @@ TBD
 - Package: [yarn](https://yarnpkg.com/en/)
 - Transpiler: [Babel](https://babeljs.io/)
 - Bundler: [Webpack](https://webpack.github.io/)
-- Test: [Jest](https://facebook.github.io/jest/)
+- Test: [Jest](https://facebook.github.io/jest/)+[Enzyme](http://airbnb.io/enzyme/)
 
 Configuration has been bootstrapped with `create-react-app`.  Additional documentation regarding this configuration can be found [here](https://github.com/facebookincubator/create-react-app).
 
@@ -59,6 +55,7 @@ Configuration has been bootstrapped with `create-react-app`.  Additional documen
 
   - `yarn start` will run the client in development mode
   - `yarn test` will run the test watcher
+  - 'yarn test -- --coverage' will run the coverage report
   - 'yarn build' will build the app for production
 
 ## Acknowledgements

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
-import SpinningLogo from './SpinningLogo'
-import NepaLogo from './NepaLogo'
-import Header from './Header'
+import SpinningLogo from '../component/SpinningLogo'
+import NepaLogo from '../component/NepaLogo'
+import Header from '../component/Header'
 
 const MainContainer = (props) => {
   return (
