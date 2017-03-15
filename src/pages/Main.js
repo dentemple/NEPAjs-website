@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 
-import SpinningLogo from '../component/SpinningLogo'
-import NepaLogo from '../component/NepaLogo'
-import Header from '../component/Header'
+import MainHeader from '../component/MainHeader'
+import MainContents from '../component/MainContents'
 
 const MainContainer = (props) => {
   return (
@@ -16,9 +15,8 @@ export default class Main extends Component {
   render () {
     return (
       <MainContainer>
-        <Header />
-        <NepaLogo />
-        <SpinningLogo />
+        <MainHeader />
+        <MainContents />
       </MainContainer>
     )
   }

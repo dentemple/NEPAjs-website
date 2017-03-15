@@ -32,9 +32,9 @@ TBD
 ### Technologies
 
 - View: [ReactJS](https://facebook.github.io/react/)
-- Package: [yarn](https://yarnpkg.com/en/)
 - Transpiler: [Babel](https://babeljs.io/)
 - Bundler: [Webpack](https://webpack.github.io/)
+- Package: [yarn](https://yarnpkg.com/en/)
 - Test: [Jest](https://facebook.github.io/jest/)+[Enzyme](http://airbnb.io/enzyme/)
 
 Configuration has been bootstrapped with `create-react-app`.  Additional documentation regarding this configuration can be found [here](https://github.com/facebookincubator/create-react-app).
@@ -50,6 +50,10 @@ Configuration has been bootstrapped with `create-react-app`.  Additional documen
 * /src/
   * All new components should be placed within `/src/` or within sub-directories here
   * `/src/index.js` is the JavaScript entry point
+  * `/src/config/router.js` contains the router
+  * `/src/component` contains the general components
+  * `/src/pages/` contains the page-level components
+  * `/src/css/` contains images and styles to be bundled
 
   ### Scripts
 
