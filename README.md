@@ -59,7 +59,7 @@ Configuration has been bootstrapped with `create-react-app`.  Additional documen
 
   - `yarn start` will run the client in development mode
   - `yarn test` will run the test watcher
-  - `yarn test -- --coverage` will run the coverage report
+  - `yarn coverage` will run a report on test coverage
   - `yarn build` will build the app for production
 
 ## Acknowledgements
