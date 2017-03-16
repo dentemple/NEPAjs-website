@@ -3,7 +3,7 @@ import React from 'react'
 const TextContainer = (props) => {
   const style = {
     fontWeight: 700,
-    fontSize: '3.3em'
+    fontSize: '2.5em'
   }
   return (
     <h1 style={style}>
@@ -21,6 +21,6 @@ const Text = (props) => {
   )
 }
 
-const HeaderBigText = (props) => <TextContainer><Text /></TextContainer>
+const HeaderH2 = (props) => <TextContainer><Text /></TextContainer>
 
-export default HeaderBigText
+export default HeaderH2

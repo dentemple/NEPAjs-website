@@ -1,28 +1,34 @@
 import React, { Component } from 'react'
+import FontAwesome from 'react-fontawesome'
 
 const IconContainer = (props) => {
   const style = {
-    backgroundColor: '#FFFFFF',
-    backgroundRepeat: 'no-repeat',
-    width: 60,
-    height: 60,
-    margin: 20,
-    borderRadius: '20%',
-    display: 'inline-block'
+    color: 'white',
+    textAlign: 'center',
+    marginLeft: 20,
+    marginRight: 20
   }
   return (
-    <div style={style}>
+    <a style={style} className='btn' href={props.link}>
       { props.children }
-    </div>
+    </a>
   )
 }
 
 export default class SocialMediaIcon extends Component {
   render () {
+    const style = { width: '100%'}
+    const { link, icon } = this.props
     return (
-      <IconContainer>
-        { this.props.image }
+      <IconContainer link={link}>
+        {/* 'name' shows an error, but still seems to work */}
+        <FontAwesome name={icon} style={style} size='4x' />
       </IconContainer>
     )
   }
+}
+
+SocialMediaIcon.propTypes = {
+  link: React.PropTypes.string,
+  icon: React.PropTypes.string
 }

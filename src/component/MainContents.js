@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+import NepaLogo from './NepaLogo'
+
 const ContentsContainer = (props) => {
   return (
     <div className='container-fluid'>
@@ -13,6 +15,7 @@ export default class MainContents extends Component {
     return (
       <ContentsContainer>
         Main Text
+        <NepaLogo size='20' />
       </ContentsContainer>
     )
   }

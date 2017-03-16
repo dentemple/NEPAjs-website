@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
 import HeaderImage from './HeaderImage'
-import NepaLogo from './NepaLogo'
-import HeaderBigText from './HeaderBigText'
-import HeaderSmallText from './HeaderSmallText'
+import HeaderH1 from './HeaderH1'
+import HeaderH2 from './HeaderH2'
+import HeaderP from './HeaderP'
 import HorizontalLine from './HorizontalLine'
 import SocialMediaIcon from './SocialMediaIcon'
 
@@ -25,17 +25,14 @@ const TextContainer = (props) => {
 }
 
 const SocialMediaIcons = (props) => {
+  const meetupLink = 'https://www.meetup.com/NEPA-js/'
+  const twitterLink = 'https://twitter.com/hashtag/NEPAjs?src=hash'
+  const slackLink = 'nepatech.slack.com'
   return (
     <div className='row'>
-      <SocialMediaIcon 
-        image='S'
-        link='' />
-      <SocialMediaIcon 
-        image='S'
-        link='' />
-      <SocialMediaIcon 
-        image='S'
-        link='' />
+      <SocialMediaIcon icon='meetup' link={meetupLink} />
+      <SocialMediaIcon icon='twitter' link={twitterLink} />
+      <SocialMediaIcon icon='slack' link={slackLink} />
     </div>
   )
 }
@@ -45,9 +42,9 @@ export default class MainHeader extends Component {
     return (
       <HeaderImage>
         <TextContainer>
-          <NepaLogo percentage='30' />
-          <HeaderBigText />
-          <HeaderSmallText />
+          <HeaderP />
+          <HeaderH1 />
+          <HeaderH2 />
           <HorizontalLine />
           <SocialMediaIcons />
         </TextContainer>

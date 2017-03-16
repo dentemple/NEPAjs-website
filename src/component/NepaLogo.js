@@ -4,9 +4,8 @@ import logo from '../css/img/nepajs-small.jpeg'
 
 export default class NepaLogo extends Component {
   render () {
-    const percentage = this.props.percentage || '30'
     const style = {
-      width: `${percentage}%`,
+      width: `${this.props.size}%`,
       height: 'auto'
     }
     return (
@@ -17,3 +16,7 @@ export default class NepaLogo extends Component {
     )
   }
 }
+
+NepaLogo.defaultProps = {
+  size: '20'
+};
