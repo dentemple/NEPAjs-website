@@ -5,18 +5,21 @@ import logo from '../css/img/nepajs-small.jpeg'
 export default class NepaLogo extends Component {
   render () {
     const style = {
-      width: `${this.props.size}%`,
-      height: 'auto'
+      width: `${this.props.width}`,
+      height: `${this.props.height}`,
+      margin: '0 auto'
     }
     return (
       <img 
         src={logo} 
         style={style} 
+        className="img-responsive"
         alt='Logo for NEPA.js' />
     )
   }
 }
 
 NepaLogo.defaultProps = {
-  size: '20'
+  width: '250px',
+  height: 'auto'
 };
