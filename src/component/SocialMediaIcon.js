@@ -21,8 +21,7 @@ export default class SocialMediaIcon extends Component {
     const { link, icon } = this.props
     return (
       <IconContainer link={link}>
-        {/* 'name' shows an error, but still seems to work */}
-        <FontAwesome name={icon} style={style} size='4x' />
+        <FontAwesome name="twitter" style={style} size='4x' />
       </IconContainer>
     )
   }

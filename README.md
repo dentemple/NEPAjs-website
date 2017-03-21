@@ -37,6 +37,7 @@ TBD
 - Package: [yarn](https://yarnpkg.com/en/)
 - Test: [Jest](https://facebook.github.io/jest/)+[Enzyme](http://airbnb.io/enzyme/)
 
+
 Configuration has been bootstrapped with `create-react-app`.  Additional documentation regarding this configuration can be found [here](https://github.com/facebookincubator/create-react-app).
 
 ### Directories
