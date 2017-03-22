@@ -2,7 +2,7 @@
 import React from 'react'
 import { render } from 'enzyme'
 
-import MyComponent from '../HeaderH1'
+import MyComponent from '../H2Text'
 
 it('renders without crashing', () => {
   const div = document.createElement('div')

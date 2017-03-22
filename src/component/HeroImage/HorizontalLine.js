@@ -1,6 +1,6 @@
 import React from 'react'
 
-const HorizontalLine = (props) => {
+const HorizontalLine = () => {
   const style = {
     padding: 0,
     border: 'none',

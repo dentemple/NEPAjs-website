@@ -13,7 +13,7 @@ const TextContainer = (props) => {
   )
 }
 
-const Text = (props) => <span>Northeast Pennsylvania</span>
-const HeaderP = (props) => <TextContainer><Text /></TextContainer>
+const Text = () => <span>Northeast Pennsylvania</span>
+const PText = () => <TextContainer><Text /></TextContainer>
 
-export default HeaderP
+export default PText

@@ -1,9 +1,8 @@
 import React from 'react'
 import { Router, Route, IndexRoute, hashHistory } from 'react-router'
 
-import App from '../pages/App'
-import Main from '../page\
-s/Main'
+import App from '../component/_container/App'
+import Main from '../component/_container/Main'
 
 const routes = (
   <Router history={hashHistory}>

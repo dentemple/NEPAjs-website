@@ -3,7 +3,7 @@ import React from 'react'
 import { shallow, mount } from 'enzyme'
 import 'jest-enzyme'
 
-import MyComponent from '../MainContents'
+import MyComponent from '../index'
 
 it('renders without crashing', () => {
   shallow(<MyComponent />)

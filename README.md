@@ -52,8 +52,8 @@ Configuration has been bootstrapped with `create-react-app`.  Additional documen
   * All new components should be placed within `/src/` or within sub-directories here
   * `/src/index.js` is the JavaScript entry point
   * `/src/config/router.js` contains the router
-  * `/src/component` contains the general components
-  * `/src/pages/` contains the page-level components
+  * `/src/component` contains the main jsx components
+  * `/src/component/container` contains the page-level components
   * `/src/css/` contains images and styles to be bundled
 
   ### Scripts
