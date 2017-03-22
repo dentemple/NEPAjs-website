@@ -5,7 +5,7 @@ import App from '../pages/App'
 import Main from '../page\
 s/Main'
 
-const router = (
+const routes = (
   <Router history={hashHistory}>
     <Route path='/' component={App}>
       <IndexRoute component={Main} />
@@ -13,4 +13,4 @@ const router = (
   </Router>
 )
 
-export default router
+export default routes

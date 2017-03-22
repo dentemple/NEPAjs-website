@@ -2,9 +2,9 @@ import { render } from 'react-dom'
 
 import './css/bootstrap/bootstrap.min.css'
 import './css/index.css'
-import router from './config/router'
+import routes from './config/routes'
 
 render(
-  router,
+  routes,
   document.getElementById('root')
 )
