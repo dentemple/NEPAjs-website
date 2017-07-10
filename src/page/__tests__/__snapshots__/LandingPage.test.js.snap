@@ -1,0 +1,1111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {},
+        "children": Array [
+          Object {
+            "attribs": Object {},
+            "children": Array [
+              Object {
+                "data": "Partners: (links)",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "text",
+              },
+            ],
+            "name": "p",
+            "next": Object {
+              "attribs": Object {
+                "class": "sc-bdVaJa ciUCjS",
+              },
+              "children": Array [
+                Object {
+                  "attribs": Object {
+                    "class": "sc-EHOje cKVlgh",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "class": "container",
+                      },
+                      "children": Array [
+                        Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "sc-htpNat kYcRFo",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bwzfXH dugfux",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Northeastern Pennsylvania",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {},
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bwzfXH dugfux",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Join our community of developers and entrepreneurs",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "span",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "h1",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": Object {
+                              "attribs": Object {
+                                "class": "row",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "col-xs-12",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-ifAKCX bnqnfC",
+                                        "href": "https://www.meetup.com/NEPA-js/join",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "attribs": Object {
+                                            "class": "sc-bxivhb fxUYUJ",
+                                          },
+                                          "children": Array [
+                                            Object {
+                                              "data": "Request to join Meetup Group",
+                                              "next": null,
+                                              "parent": [Circular],
+                                              "prev": null,
+                                              "type": "text",
+                                            },
+                                          ],
+                                          "name": "button",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "tag",
+                                        },
+                                      ],
+                                      "name": "a",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "div",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": [Circular],
+                              "type": "tag",
+                            },
+                            "parent": [Circular],
+                            "prev": [Circular],
+                            "type": "tag",
+                          },
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                        },
+                        Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {},
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bwzfXH dugfux",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Join our community of developers and entrepreneurs",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "h1",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-ifAKCX bnqnfC",
+                                      "href": "https://www.meetup.com/NEPA-js/join",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bxivhb fxUYUJ",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Request to join Meetup Group",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "button",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "a",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": [Circular],
+                            "type": "tag",
+                          },
+                          "parent": [Circular],
+                          "prev": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-htpNat kYcRFo",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bwzfXH dugfux",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Northeastern Pennsylvania",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "span",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": [Circular],
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                          },
+                          "type": "tag",
+                        },
+                        Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "sc-ifAKCX bnqnfC",
+                                    "href": "https://www.meetup.com/NEPA-js/join",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bxivhb fxUYUJ",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Request to join Meetup Group",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "button",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "a",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {},
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bwzfXH dugfux",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Join our community of developers and entrepreneurs",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "span",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "h1",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": [Circular],
+                            "parent": [Circular],
+                            "prev": Object {
+                              "attribs": Object {
+                                "class": "row",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "col-xs-12",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-htpNat kYcRFo",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "attribs": Object {
+                                            "class": "sc-bwzfXH dugfux",
+                                          },
+                                          "children": Array [
+                                            Object {
+                                              "data": "Northeastern Pennsylvania",
+                                              "next": null,
+                                              "parent": [Circular],
+                                              "prev": null,
+                                              "type": "text",
+                                            },
+                                          ],
+                                          "name": "span",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "tag",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "div",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": [Circular],
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                            "type": "tag",
+                          },
+                          "type": "tag",
+                        },
+                      ],
+                      "name": "div",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                    },
+                  ],
+                  "name": "section",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "tag",
+                },
+              ],
+              "name": "div",
+              "next": null,
+              "parent": [Circular],
+              "prev": [Circular],
+              "type": "tag",
+            },
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+          },
+          Object {
+            "attribs": Object {
+              "class": "sc-bdVaJa ciUCjS",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "sc-EHOje cKVlgh",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "container",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "class": "row",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "col-xs-12",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "sc-htpNat kYcRFo",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-bwzfXH dugfux",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "data": "Northeastern Pennsylvania",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "text",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "span",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                          },
+                        ],
+                        "name": "div",
+                        "next": Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {},
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bwzfXH dugfux",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Join our community of developers and entrepreneurs",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "h1",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-ifAKCX bnqnfC",
+                                      "href": "https://www.meetup.com/NEPA-js/join",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bxivhb fxUYUJ",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Request to join Meetup Group",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "button",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "a",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": [Circular],
+                            "type": "tag",
+                          },
+                          "parent": [Circular],
+                          "prev": [Circular],
+                          "type": "tag",
+                        },
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                      },
+                      Object {
+                        "attribs": Object {
+                          "class": "row",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "col-xs-12",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {},
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-bwzfXH dugfux",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "data": "Join our community of developers and entrepreneurs",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "text",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "h1",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                          },
+                        ],
+                        "name": "div",
+                        "next": Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "sc-ifAKCX bnqnfC",
+                                    "href": "https://www.meetup.com/NEPA-js/join",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bxivhb fxUYUJ",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Request to join Meetup Group",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "button",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "a",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": [Circular],
+                          "type": "tag",
+                        },
+                        "parent": [Circular],
+                        "prev": Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "sc-htpNat kYcRFo",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bwzfXH dugfux",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Northeastern Pennsylvania",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": [Circular],
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                        },
+                        "type": "tag",
+                      },
+                      Object {
+                        "attribs": Object {
+                          "class": "row",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "col-xs-12",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "sc-ifAKCX bnqnfC",
+                                  "href": "https://www.meetup.com/NEPA-js/join",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-bxivhb fxUYUJ",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "data": "Request to join Meetup Group",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "text",
+                                      },
+                                    ],
+                                    "name": "button",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "a",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                          },
+                        ],
+                        "name": "div",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": Object {
+                          "attribs": Object {
+                            "class": "row",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "col-xs-12",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {},
+                                  "children": Array [
+                                    Object {
+                                      "attribs": Object {
+                                        "class": "sc-bwzfXH dugfux",
+                                      },
+                                      "children": Array [
+                                        Object {
+                                          "data": "Join our community of developers and entrepreneurs",
+                                          "next": null,
+                                          "parent": [Circular],
+                                          "prev": null,
+                                          "type": "text",
+                                        },
+                                      ],
+                                      "name": "span",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "tag",
+                                    },
+                                  ],
+                                  "name": "h1",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                },
+                              ],
+                              "name": "div",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                            },
+                          ],
+                          "name": "div",
+                          "next": [Circular],
+                          "parent": [Circular],
+                          "prev": Object {
+                            "attribs": Object {
+                              "class": "row",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "col-xs-12",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "attribs": Object {
+                                      "class": "sc-htpNat kYcRFo",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "attribs": Object {
+                                          "class": "sc-bwzfXH dugfux",
+                                        },
+                                        "children": Array [
+                                          Object {
+                                            "data": "Northeastern Pennsylvania",
+                                            "next": null,
+                                            "parent": [Circular],
+                                            "prev": null,
+                                            "type": "text",
+                                          },
+                                        ],
+                                        "name": "span",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "tag",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                  },
+                                ],
+                                "name": "div",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                              },
+                            ],
+                            "name": "div",
+                            "next": [Circular],
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                          },
+                          "type": "tag",
+                        },
+                        "type": "tag",
+                      },
+                    ],
+                    "name": "div",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                  },
+                ],
+                "name": "section",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+              },
+            ],
+            "name": "div",
+            "next": null,
+            "parent": [Circular],
+            "prev": Object {
+              "attribs": Object {},
+              "children": Array [
+                Object {
+                  "data": "Partners: (links)",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+              ],
+              "name": "p",
+              "next": [Circular],
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+            },
+            "type": "tag",
+          },
+        ],
+        "name": "div",
+        "next": null,
+        "parent": null,
+        "prev": null,
+        "root": [Circular],
+        "type": "tag",
+      },
+    ],
+    "name": "root",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "type": "root",
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xmlMode": false,
+  },
+}
+`;
