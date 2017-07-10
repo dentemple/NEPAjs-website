@@ -1,11 +1,11 @@
 // @flow
 
-import styled from "styled-components";
+import styled from "styled-components"
 
 const TranslucentBg = styled.span`
-  background-color: #fff;
-  background-color: rgba(255, 255, 255, 0.5);
-  padding: 0 5px;
-`;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+`
 
-export default TranslucentBg;
+export default TranslucentBg

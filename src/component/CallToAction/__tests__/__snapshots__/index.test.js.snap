@@ -7,7 +7,7 @@ initialize {
     "children": Array [
       Object {
         "attribs": Object {
-          "class": "sc-ifAKCX eJomJp",
+          "class": "sc-bxivhb ljoOud",
         },
         "children": Array [
           Object {
@@ -27,27 +27,15 @@ initialize {
                     "children": Array [
                       Object {
                         "attribs": Object {
-                          "class": "sc-bwzfXH iLjinC",
+                          "class": "sc-bdVaJa cWUclu",
                         },
                         "children": Array [
                           Object {
-                            "attribs": Object {
-                              "class": "sc-bdVaJa itPoZK",
-                            },
-                            "children": Array [
-                              Object {
-                                "data": "Northeastern Pennsylvania",
-                                "next": null,
-                                "parent": [Circular],
-                                "prev": null,
-                                "type": "text",
-                              },
-                            ],
-                            "name": "span",
+                            "data": "Northeastern Pennsylvania",
                             "next": null,
                             "parent": [Circular],
                             "prev": null,
-                            "type": "tag",
+                            "type": "text",
                           },
                         ],
                         "name": "span",
@@ -80,11 +68,11 @@ initialize {
                           "children": Array [
                             Object {
                               "attribs": Object {
-                                "class": "sc-bdVaJa itPoZK",
+                                "class": "sc-bdVaJa cWUclu",
                               },
                               "children": Array [
                                 Object {
-                                  "data": "Join our community of developers and entrepreneurs",
+                                  "data": "Join our community of programmers and entrepreneurs",
                                   "next": null,
                                   "parent": [Circular],
                                   "prev": null,
@@ -125,13 +113,13 @@ initialize {
                         "children": Array [
                           Object {
                             "attribs": Object {
-                              "class": "sc-bxivhb ebXMWl",
+                              "class": "sc-htpNat gRZbmy",
                               "href": "https://www.meetup.com/NEPA-js/join",
                             },
                             "children": Array [
                               Object {
                                 "attribs": Object {
-                                  "class": "sc-htpNat jbApfe",
+                                  "class": "sc-bwzfXH ebLria",
                                 },
                                 "children": Array [
                                   Object {
@@ -192,11 +180,11 @@ initialize {
                         "children": Array [
                           Object {
                             "attribs": Object {
-                              "class": "sc-bdVaJa itPoZK",
+                              "class": "sc-bdVaJa cWUclu",
                             },
                             "children": Array [
                               Object {
-                                "data": "Join our community of developers and entrepreneurs",
+                                "data": "Join our community of programmers and entrepreneurs",
                                 "next": null,
                                 "parent": [Circular],
                                 "prev": null,
@@ -237,13 +225,13 @@ initialize {
                       "children": Array [
                         Object {
                           "attribs": Object {
-                            "class": "sc-bxivhb ebXMWl",
+                            "class": "sc-htpNat gRZbmy",
                             "href": "https://www.meetup.com/NEPA-js/join",
                           },
                           "children": Array [
                             Object {
                               "attribs": Object {
-                                "class": "sc-htpNat jbApfe",
+                                "class": "sc-bwzfXH ebLria",
                               },
                               "children": Array [
                                 Object {
@@ -294,27 +282,15 @@ initialize {
                       "children": Array [
                         Object {
                           "attribs": Object {
-                            "class": "sc-bwzfXH iLjinC",
+                            "class": "sc-bdVaJa cWUclu",
                           },
                           "children": Array [
                             Object {
-                              "attribs": Object {
-                                "class": "sc-bdVaJa itPoZK",
-                              },
-                              "children": Array [
-                                Object {
-                                  "data": "Northeastern Pennsylvania",
-                                  "next": null,
-                                  "parent": [Circular],
-                                  "prev": null,
-                                  "type": "text",
-                                },
-                              ],
-                              "name": "span",
+                              "data": "Northeastern Pennsylvania",
                               "next": null,
                               "parent": [Circular],
                               "prev": null,
-                              "type": "tag",
+                              "type": "text",
                             },
                           ],
                           "name": "span",
@@ -351,13 +327,13 @@ initialize {
                     "children": Array [
                       Object {
                         "attribs": Object {
-                          "class": "sc-bxivhb ebXMWl",
+                          "class": "sc-htpNat gRZbmy",
                           "href": "https://www.meetup.com/NEPA-js/join",
                         },
                         "children": Array [
                           Object {
                             "attribs": Object {
-                              "class": "sc-htpNat jbApfe",
+                              "class": "sc-bwzfXH ebLria",
                             },
                             "children": Array [
                               Object {
@@ -407,11 +383,11 @@ initialize {
                           "children": Array [
                             Object {
                               "attribs": Object {
-                                "class": "sc-bdVaJa itPoZK",
+                                "class": "sc-bdVaJa cWUclu",
                               },
                               "children": Array [
                                 Object {
-                                  "data": "Join our community of developers and entrepreneurs",
+                                  "data": "Join our community of programmers and entrepreneurs",
                                   "next": null,
                                   "parent": [Circular],
                                   "prev": null,
@@ -454,27 +430,15 @@ initialize {
                         "children": Array [
                           Object {
                             "attribs": Object {
-                              "class": "sc-bwzfXH iLjinC",
+                              "class": "sc-bdVaJa cWUclu",
                             },
                             "children": Array [
                               Object {
-                                "attribs": Object {
-                                  "class": "sc-bdVaJa itPoZK",
-                                },
-                                "children": Array [
-                                  Object {
-                                    "data": "Northeastern Pennsylvania",
-                                    "next": null,
-                                    "parent": [Circular],
-                                    "prev": null,
-                                    "type": "text",
-                                  },
-                                ],
-                                "name": "span",
+                                "data": "Northeastern Pennsylvania",
                                 "next": null,
                                 "parent": [Circular],
                                 "prev": null,
-                                "type": "tag",
+                                "type": "text",
                               },
                             ],
                             "name": "span",

@@ -13,9 +13,12 @@
     "test:update": "react-scripts test --env=jsdom -u",
     "test:coverage": "react-scripts test --env=jsdom --coverage",
     "precommit": "lint-staged",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "contributor:add": "all-contributors add",
+    "contributor:generate": "all-contributors generate"
   },
   "devDependencies": {
+    "all-contributors-cli": "^4.3.0",
     "enzyme": "^2.9.1",
     "flow-bin": "^0.49.1",
     "husky": "^0.14.3",
@@ -39,9 +42,6 @@
     "styled-components": "^2.1.1"
   },
   "lint-staged": {
-    "*.js": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.js": ["prettier --write", "git add"]
   }
 }

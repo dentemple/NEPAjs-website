@@ -12,7 +12,10 @@ const StyledSection = styled.section`
   width: 100%;
   padding-top: 15%;
   text-align: center;
-  color: #000000;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.72), 0 0 15px rgba(0, 0, 0, 0.45);
 `
 
 const CallToAction = () =>

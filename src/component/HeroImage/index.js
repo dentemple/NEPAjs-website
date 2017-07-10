@@ -1,7 +1,7 @@
 // @flow
 
-import styled from "styled-components";
-import image from "./Scranton-PA.jpg";
+import styled from "styled-components"
+import image from "./artsy-startup.jpg"
 
 const HeroImage = styled.div`
   background-image: url(${image});
@@ -17,7 +17,7 @@ const HeroImage = styled.div`
   overflow: hidden;
   position: relative;
   width: 100%;
-  height: 500px;
-`;
+  height: 600px;
+`
 
-export default HeroImage;
+export default HeroImage

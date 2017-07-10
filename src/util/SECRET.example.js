@@ -4,6 +4,6 @@
 
 const SECRET = {
   MEETUP_API_KEY: "abc123"
-};
+}
 
-export default SECRET;
+export default SECRET

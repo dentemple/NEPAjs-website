@@ -10,7 +10,7 @@ const BigText = () =>
     <Col xs={12}>
       <h1>
         <TranslucentBg>
-          Join our community of developers and entrepreneurs
+          Join our community of programmers and entrepreneurs
         </TranslucentBg>
       </h1>
     </Col>

@@ -15,7 +15,7 @@ const StyledButton = styled.button`
   box-sizing: border-box;
   -webkit-appearance: none;
   border-radius: 3px;
-  font-size: 1.1em;
+  font-size: 0.8em;
   font-weight: 600;
   min-height: 36px;
   outline: 0;
