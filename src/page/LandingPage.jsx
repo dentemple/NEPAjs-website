@@ -8,11 +8,9 @@ import CallToAction from "../component/CallToAction"
 class Landing extends Component {
   render() {
     return (
-      <div>
-        <HeroImage>
-          <CallToAction />
-        </HeroImage>
-      </div>
+      <HeroImage>
+        <CallToAction />
+      </HeroImage>
     )
   }
 }

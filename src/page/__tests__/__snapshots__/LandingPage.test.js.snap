@@ -8,17 +8,13 @@ ShallowWrapper {
     "findWhereUnwrapped": [Function],
   },
   "length": 1,
-  "node": <div>
-    <styled.div>
-        <CallToAction />
-    </styled.div>
-</div>,
+  "node": <styled.div>
+    <CallToAction />
+</styled.div>,
   "nodes": Array [
-    <div>
-      <styled.div>
-            <CallToAction />
-      </styled.div>
-</div>,
+    <styled.div>
+      <CallToAction />
+</styled.div>,
   ],
   "options": Object {},
   "renderer": ReactShallowRenderer {
@@ -54,19 +50,15 @@ ShallowWrapper {
       "_pendingReplaceState": false,
       "_pendingStateQueue": null,
       "_renderedComponent": NoopInternalComponent {
-        "_currentElement": <div>
-          <styled.div>
-                    <CallToAction />
-          </styled.div>
-</div>,
+        "_currentElement": <styled.div>
+          <CallToAction />
+</styled.div>,
         "_debugID": 4,
-        "_renderedOutput": <div>
-          <styled.div>
-                    <CallToAction />
-          </styled.div>
-</div>,
+        "_renderedOutput": <styled.div>
+          <CallToAction />
+</styled.div>,
       },
-      "_renderedNodeType": 0,
+      "_renderedNodeType": 1,
       "_rootNodeID": 0,
       "_topLevelWrapper": null,
       "_updateBatchNumber": null,

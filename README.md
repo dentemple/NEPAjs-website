@@ -57,11 +57,11 @@ Certain components may require special passwords to function.
 
 Required APIs:
 
-- None
+- [Meetup.com](https://www.meetup.com/meetup_api/)
 
 These keys should NOT be saved into Github.  To help prevent this, a template file has been created for you.
 
-- Follow the link(s) above to generate your personal API keys
+- Create an account at the link(s) above, and generate your personal API key(s)
 - Navigate to the file `/src/util/` folder and look for `/SECRET.example.js`
 - Make a copy of this file and name it to `/SECRET.js`
 - Replace the example keys with your actual API keys

@@ -1,7 +1,9 @@
-import React from 'react'
-import styled from 'styled-components'
+/*
+  For testing purposes only. Renders a JSON object with JSON.stringify.
+*/
 
-// For testing purposes only
+import React from "react"
+import styled from "styled-components"
 
 const StyleWrapper = styled.div`
   background-color: #e6e6e6;

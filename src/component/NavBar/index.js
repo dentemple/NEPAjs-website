@@ -8,9 +8,12 @@ import nepajsLogo from "./nepajs-logo.png";
 import tecbridgeLogo from "./tecbridge-logo.png";
 
 const StyledNav = styled.nav`
+  background-color: #ffffff;
   display: flex;
   justify-content: space-between;
+  top: 0;
   height: 65px;
+  width: 100%;
 `;
 const NavSection = styled.ul`
   display: flex;
