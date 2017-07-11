@@ -1,9 +1,9 @@
 // @flow
 
 import React from "react";
-import { shallow } from "enzyme";
+import { shallow, render } from "enzyme";
 import { MemoryRouter } from "react-router-dom";
-import MyComponent from "../PageNotFound";
+import MyComponent from "../index";
 
 it("renders without crashing", () => {
   shallow(
@@ -14,7 +14,7 @@ it("renders without crashing", () => {
 });
 
 it("matches the snapshot", () => {
-  const component = shallow(
+  const component = render(
     <MemoryRouter>
       <MyComponent />
     </MemoryRouter>

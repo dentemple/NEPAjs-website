@@ -5,6 +5,7 @@ import { Route, Switch } from "react-router-dom"
 import Loadable from "react-loadable"
 import "./util/injectCSS"
 
+import GlobalContainer from "./page/GlobalContainer"
 import PageLoading from "./page/PageLoading"
 import asyncComponent from "./util/AsyncComponent"
 
@@ -12,17 +13,14 @@ const AsyncLandingPage = Loadable({
   loader: () => import("./page/LandingPage"),
   loading: PageLoading
 })
-const AsyncGlobalContainer = asyncComponent(() =>
-  import("./page/GlobalContainer")
-)
 const AsyncPageNotFound = asyncComponent(() => import("./page/PageNotFound"))
 
 const App = () =>
-  <AsyncGlobalContainer>
+  <GlobalContainer>
     <Switch>
       <Route exact path="/" component={AsyncLandingPage} />
       <Route component={AsyncPageNotFound} />
     </Switch>
-  </AsyncGlobalContainer>
+  </GlobalContainer>
 
 export default App

@@ -26,19 +26,29 @@ initialize {
                     },
                     "children": Array [
                       Object {
-                        "attribs": Object {
-                          "class": "sc-bdVaJa cWUclu",
-                        },
+                        "attribs": Object {},
                         "children": Array [
                           Object {
-                            "data": "Northeastern Pennsylvania",
+                            "attribs": Object {
+                              "class": "sc-bdVaJa cWUclu",
+                            },
+                            "children": Array [
+                              Object {
+                                "data": "Northeastern Pennsylvania",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "text",
+                              },
+                            ],
+                            "name": "span",
                             "next": null,
                             "parent": [Circular],
                             "prev": null,
-                            "type": "text",
+                            "type": "tag",
                           },
                         ],
-                        "name": "span",
+                        "name": "small",
                         "next": null,
                         "parent": [Circular],
                         "prev": null,
@@ -281,19 +291,29 @@ initialize {
                       },
                       "children": Array [
                         Object {
-                          "attribs": Object {
-                            "class": "sc-bdVaJa cWUclu",
-                          },
+                          "attribs": Object {},
                           "children": Array [
                             Object {
-                              "data": "Northeastern Pennsylvania",
+                              "attribs": Object {
+                                "class": "sc-bdVaJa cWUclu",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Northeastern Pennsylvania",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
                               "next": null,
                               "parent": [Circular],
                               "prev": null,
-                              "type": "text",
+                              "type": "tag",
                             },
                           ],
-                          "name": "span",
+                          "name": "small",
                           "next": null,
                           "parent": [Circular],
                           "prev": null,
@@ -429,19 +449,29 @@ initialize {
                         },
                         "children": Array [
                           Object {
-                            "attribs": Object {
-                              "class": "sc-bdVaJa cWUclu",
-                            },
+                            "attribs": Object {},
                             "children": Array [
                               Object {
-                                "data": "Northeastern Pennsylvania",
+                                "attribs": Object {
+                                  "class": "sc-bdVaJa cWUclu",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Northeastern Pennsylvania",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
                                 "next": null,
                                 "parent": [Circular],
                                 "prev": null,
-                                "type": "text",
+                                "type": "tag",
                               },
                             ],
-                            "name": "span",
+                            "name": "small",
                             "next": null,
                             "parent": [Circular],
                             "prev": null,

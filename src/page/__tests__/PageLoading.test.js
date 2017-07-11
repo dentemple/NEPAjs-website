@@ -1,14 +1,23 @@
 // @flow
 
 import React from "react";
-import { shallow, render } from "enzyme";
+import { shallow } from "enzyme";
+import { MemoryRouter } from "react-router-dom";
 import MyComponent from "../PageLoading";
 
 it("renders without crashing", () => {
-  shallow(<MyComponent />);
+  shallow(
+    <MemoryRouter>
+      <MyComponent />
+    </MemoryRouter>
+  );
 });
 
 it("matches the snapshot", () => {
-  const component = render(<MyComponent />);
+  const component = shallow(
+    <MemoryRouter>
+      <MyComponent />
+    </MemoryRouter>
+  );
   expect(component).toMatchSnapshot();
 });

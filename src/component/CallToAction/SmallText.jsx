@@ -8,7 +8,9 @@ import TranslucentBg from "./TranslucentBg"
 const SmallText = () =>
   <Row>
     <Col xs={12}>
-      <TranslucentBg>Northeastern Pennsylvania</TranslucentBg>
+      <small>
+        <TranslucentBg>Northeastern Pennsylvania</TranslucentBg>
+      </small>
     </Col>
   </Row>
 

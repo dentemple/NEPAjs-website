@@ -9,7 +9,6 @@ class Landing extends Component {
   render() {
     return (
       <div>
-        <p>Partners: (links)</p>
         <HeroImage>
           <CallToAction />
         </HeroImage>

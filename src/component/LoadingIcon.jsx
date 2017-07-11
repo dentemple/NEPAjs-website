@@ -1,19 +1,25 @@
 // @flow
 
 import React from "react"
-import ReactLoading from "react-loading"
+
+import FaSpinner from "react-icons/lib/fa/spinner"
+import FaExclamationCircle from "react-icons/lib/fa/exclamation-circle"
 
 // For use with react-loadable
 
 const Loading = (isLoading: boolean, error: Error) => {
   if (isLoading) {
     return (
-      <div>
-        <ReactLoading type="spokes" color="#444" />
-      </div>
+      <span>
+        <FaSpinner />
+      </span>
     )
   } else if (error) {
-    return <div>Err</div>
+    return (
+      <span>
+        <FaExclamationCircle />
+      </span>
+    )
   }
 }
 

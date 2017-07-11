@@ -4,28 +4,28 @@
 
 Website for the NEPA.js Meetup Group, a community of JavaScript enthusiasts serving Northeast Pennsylvania.
 
-Join us for our next [Meetup Group](https://www.meetup.com/NEPA-js/).
+Join our next [Meetup Group](https://www.meetup.com/NEPA-js/)!
 
-Join the conversation on [Twitter](https://twitter.com/hashtag/nepajs?src=hash).
+Find us on [Twitter](https://twitter.com/hashtag/nepajs?src=hash)!
 
 ## Code of Conduct
 
-[See our Code of Conduct guide](code-of-conduct.md).
+[Read our Code of Conduct](code-of-conduct.md).
 
 ## Project Technology
-
-Configuration has been bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 - [React](https://facebook.github.io/react/) for handling UI
 - [Prettier](https://github.com/prettier/prettier) for enforcing code style
 - [Flow](https://flow.org/) for static typing
 - [Jest](https://facebook.github.io/jest/) for testing
 - [styled-components](https://www.styled-components.com/) for handling CSS
--- This project can also handle [CSS imports](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-stylesheet)
+  - This project also handles [CSS imports](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-stylesheet)
+
+Configuration has been bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Install and Contribute
 
-### Required technologies
+### Required
 
 - [Node.js](https://nodejs.org/en/download) (recommended v6.0 and above)
 - [yarn](https://yarnpkg.com/en/docs/install)
@@ -45,7 +45,7 @@ Configuration has been bootstrapped with [Create React App](https://github.com/f
 
 ### No need to think about code style
 
-The Prettier library [will automatically convert your code](https://github.com/prettier/prettier#what-does-prettier-do) to fit the project's [style guide](https://github.com/airbnb/javascript).
+Prettier [will automatically convert your code](https://github.com/prettier/prettier#what-does-prettier-do) to fit the project's [style guide](https://github.com/airbnb/javascript).
 
 This occurs on every `git commit`.
 
@@ -80,7 +80,7 @@ Documentation for [Jest](https://facebook.github.io/jest/) and [Enzyme](https://
 -- `yarn test`
 - Update the UI snapshots
 -- `yarn test:update`
--- The `__snapshots__` folders should not be adjusted manually
+  - The `__snapshots__` folders don't need to be adjusted manually
 - Run a coverage report
 -- `yarn test:coverage`
 
@@ -89,7 +89,7 @@ Make sure there are no failing tests prior to sending us a [Pull Request](https:
 ### Send us your changes
 
 - [Save your changes through git](https://www.atlassian.com/git/tutorials/saving-changes)
--- [Advice for writing a good commit message](https://chris.beams.io/posts/git-commit/)
+  - [Advice for writing a good commit message](https://chris.beams.io/posts/git-commit/)
 - [Create a Pull Request](https://yangsu.github.io/pull-request-tutorial/)
 
 ## Additional Information
@@ -100,10 +100,10 @@ The main client-side code can be found in the `src/` directory
 
 - Entry point/render: `src/index.js`
 - Routing: `src/App.jsx`
--- Special note: This project utilizes code splitting to load pages asynchronously
--- [Guide to Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html)
+  - Special note: This project utilizes code splitting to load pages asynchronously
+  - [Guide to Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html)
 - A service worker has been installed as per the [PWA specification](http://blog.ionic.io/what-is-a-progressive-web-app/)
--- This service worker is part of Create React App and shouldn't need to be updated
+  - This service worker is part of Create React App and shouldn't need to be updated
 
 "Top-level" components can be found in the `src/page` directory.
 
@@ -113,7 +113,7 @@ The main client-side code can be found in the `src/` directory
 All other components can be found in the `src/component` directory.
 
 - Related files that execute a single function are grouped together into the same sub-directory
--- i.e. All files that to serve to create the *HeroImage* (such as its main React component, its test files, and its .jpg image) will be found in the `src/component/HeroImage/` sub-directory
+  - i.e. All files that to serve to create the *HeroImage* (such as its main React component, its test files, and its .jpg image) will be found in the `src/component/HeroImage/` sub-directory
 - The "master" file within these sub-directories are named `index.js[x]`
 
 Special/unique files can be found in the `src/util` directory.

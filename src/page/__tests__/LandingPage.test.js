@@ -1,7 +1,7 @@
 // @flow
 
 import React from "react";
-import { shallow, render } from "enzyme";
+import { shallow } from "enzyme";
 import MyComponent from "../LandingPage";
 
 it("renders without crashing", () => {
@@ -9,6 +9,6 @@ it("renders without crashing", () => {
 });
 
 it("matches the snapshot", () => {
-  const component = render(<MyComponent />);
+  const component = shallow(<MyComponent />);
   expect(component).toMatchSnapshot();
 });
