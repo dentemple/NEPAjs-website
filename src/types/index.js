@@ -1,22 +1,11 @@
 // @flow
 
 /*
-  Define custom flow types
+  Define custom static types
 */
 
-export type Venue = {|
-  address_1: String,
-  city: String,
-  country: String,
-  id: Number,
-  lat: Number,
-  localized_country_name: String,
-  lon: Number,
-  name: String,
-  repinned: Boolean,
-  state: String,
-  zip: String
-|};
+const exampleStringLiteral = `key=${"str"}`;
+export type StringLiteral = typeof exampleStringLiteral;
 
 export type Meetup = {|
   announced: Boolean,
@@ -39,7 +28,16 @@ export type Meetup = {|
   yes_rsvp_count: Number
 |};
 
-const exampleStringLiteral = `key=${"str"}`;
-export type ApiUrl = typeof exampleStringLiteral;
-
-export type Meetups = Array<Meetup>;
+export type Venue = {|
+  address_1: String,
+  city: String,
+  country: String,
+  id: Number,
+  lat: Number,
+  localized_country_name: String,
+  lon: Number,
+  name: String,
+  repinned: Boolean,
+  state: String,
+  zip: String
+|};

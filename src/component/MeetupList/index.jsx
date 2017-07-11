@@ -3,7 +3,7 @@
 import React from "react"
 import { Grid, Row, Col } from "react-flexbox-grid"
 import styled from "styled-components"
-import type { Meetups } from "../../types"
+import type { Meetup } from "../../types"
 
 import MeetupLogo from "./MeetupLogo"
 import MeetupHeader from "./MeetupHeader"
@@ -18,7 +18,7 @@ const Individual = styled.article`
   max-width: 1000px;
 `
 
-const MeetupList = ({ meetups }: { meetups: Meetups }) =>
+const MeetupList = ({ meetups }: { meetups: Array<Meetup> }) =>
   <AllMeetups>
     <Grid>
       {meetups.map((meetup, index) => {
@@ -28,7 +28,7 @@ const MeetupList = ({ meetups }: { meetups: Meetups }) =>
     </Grid>
   </AllMeetups>
 
-const MeetupListing = ({ meetup }) =>
+const MeetupListing = ({ meetup }: { meetup: Meetup }) =>
   <Individual>
     <Row>
       <Col xs={12} sm={3}>

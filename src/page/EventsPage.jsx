@@ -4,12 +4,12 @@ import React, { Component } from "react"
 import jsonp from "jsonp"
 
 import SECRET from "../util/SECRET"
-import type { Meetups, ApiUrl } from "../types"
+import type { Meetup, StringLiteral } from "../types"
 import MeetupList from "../component/MeetupList"
 
 type State = {|
-  apiUrl: ApiUrl,
-  meetups: Meetups
+  apiUrl: StringLiteral,
+  meetups: Array<Meetup>
 |}
 
 class EventsPage extends Component {
