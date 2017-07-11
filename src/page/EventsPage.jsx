@@ -2,10 +2,19 @@
 
 import React, { Component } from "react"
 import jsonp from "jsonp"
+import styled from "styled-components"
 
 import SECRET from "../util/SECRET"
 import type { Meetup, StringLiteral } from "../types"
 import MeetupList from "../component/MeetupList"
+
+const StyledHeading = styled.h2`
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 100px auto;
+`
 
 type State = {|
   apiUrl: StringLiteral,
@@ -29,6 +38,7 @@ class EventsPage extends Component {
   render() {
     return (
       <div>
+        <StyledHeading>Upcoming Events</StyledHeading>
         <MeetupList meetups={this.state.meetups} />
       </div>
     )

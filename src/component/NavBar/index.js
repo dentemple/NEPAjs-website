@@ -2,9 +2,8 @@
 
 import React, { Component } from "react";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
-import nepajsLogo from "./nepajs-logo.png";
 import tecbridgeLogo from "./tecbridge-logo.png";
 
 const StyledNav = styled.nav`
@@ -18,12 +17,18 @@ const StyledNav = styled.nav`
 const NavSection = styled.ul`
   display: flex;
   list-style: none;
-  margin: 15px 0 0 30px;
+  margin: 10px 0 0 20px;
   padding: 0;
 `;
 const Logo = styled.img`
   max-width: 60%;
   height: auto;
+`;
+const StyledTextLink = styled(NavLink)`
+  color: #208075;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
 `;
 
 class NavBar extends Component {
@@ -32,15 +37,16 @@ class NavBar extends Component {
       <StyledNav>
         <NavSection>
           <li>
-            <Link to="/">
-              <Logo src={nepajsLogo} />
-            </Link>
+            <StyledTextLink to="/">Home</StyledTextLink>
+          </li>
+          <li>
+            <StyledTextLink to="/events">Events</StyledTextLink>
           </li>
         </NavSection>
         <NavSection>
           <li>
             <a href="http://www.tecbridgepa.org/">
-              <Logo src={tecbridgeLogo} />
+              <Logo src={tecbridgeLogo} alt="Logo for TECBridge" />
             </a>
           </li>
         </NavSection>
